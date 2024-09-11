@@ -14,6 +14,7 @@ const char* displayMenuStr[eDisplayMenuNofOptions] = { "Display Hospital", "Disp
 
 int Display(HospitalManager& manager)
 {
+    //hellow
     int option;
     int stop = 0;
     do
